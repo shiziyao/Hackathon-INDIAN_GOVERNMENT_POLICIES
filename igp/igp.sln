@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2209DF41-CAA8-4758-A035-3CD6EBF715F3}"
+	ProjectSection(SolutionItems) = preProject
+		bsy.html = bsy.html
+		cgtfmse.html = cgtfmse.html
+		clcstu.html = clcstu.html
+		deds.html = deds.html
+		employment.html = employment.html
+		epd.html = epd.html
+		farmers.html = farmers.html
+		fby.html = fby.html
+		haath.html = haath.html
+		home.html = home.html
+		iedss.html = iedss.html
+		irdp.html = irdp.html
+		kccs.html = kccs.html
+		kmy.html = kmy.html
+		ksny.html = ksny.html
+		ksy.html = ksy.html
+		lis.html = lis.html
+		mdm.html = mdm.html
+		ms.html = ms.html
+		nmss.html = nmss.html
+		nphce.html = nphce.html
+		pmkvy.html = pmkvy.html
+		pmmy.html = pmmy.html
+		pmrpy.html = pmrpy.html
+		pmvvs.html = pmvvs.html
+		rmsa.html = rmsa.html
+		sakhi.html = sakhi.html
+		sat.html = sat.html
+		ssa.html = ssa.html
+		ssy.html = ssy.html
+		students.html = students.html
+		style.css = style.css
+		udaan.html = udaan.html
+		vpby.html = vpby.html
+		women.html = women.html
+		wwhs.html = wwhs.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8276D97B-AED1-4290-9A61-D30D7BACB89D}
+	EndGlobalSection
+EndGlobal
